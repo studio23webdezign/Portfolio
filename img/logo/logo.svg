@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="24" viewBox="0 0 128 24">
+  <defs>
+    <style>
+      .cls-1 {
+        font-size: 30px;
+        fill: #fff;
+        font-family: "Plus Jakarta Sans";
+        font-weight: 700;
+      }
+
+      .cls-2 {
+        fill: #ffae00;
+      }
+    </style>
+  </defs>
+  <text id="Mefolios." class="cls-1" x="-2.078" y="22.764">Mefolios<tspan class="cls-2">.</tspan></text>
+</svg>
